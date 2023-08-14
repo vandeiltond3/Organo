@@ -1,0 +1,21 @@
+.footer {
+    background-color: #6278f7;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer .rds {
+    height: 30px;
+    margin: 0 15px;
+}
+
+.footer .logo {
+    height: 50px;
+}
+
+.footer p {
+    color: aliceblue;
+    font-weight: bold;
+}
